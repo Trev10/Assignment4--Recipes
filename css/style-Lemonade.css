@@ -1,0 +1,50 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+*{
+  font-family:verdana;
+}
+
+img{
+  width: 320px;
+  height: 250px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+.box {
+  border: 2px outset orange;
+  background-color: white;    
+  text-align: center;
+  width: 400px;
+  height: 120px;
+  margin: 0 auto;
+}
+
+footer{
+  text-align: right;
+  color: #676565;
+}
+
+h2.Tips{
+  text-align: center;
+  text-shadow: 2px 2px 2px orange;
+}
+
+fieldset{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+legend{
+  text-align: left;
+  margin: 0 auto;
+}
