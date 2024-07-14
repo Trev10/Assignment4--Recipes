@@ -15,14 +15,14 @@
 
 @font-face {
   font-family: GaMaamli;
-  src: url(font/GaMaamli-Regular.ttf),
+  src: url(Fonts/GaMaamli-Regular.ttf),
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: Playwrite;
-  src: url(font/PlaywriteCU-VariableFont_wght.ttf),
+  src: url(Fonts/PlaywriteCU-VariableFont_wght.ttf),
   font-weight: normal;
   font-style: normal;
 }
